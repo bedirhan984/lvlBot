@@ -112,4 +112,4 @@ bot.on('message', (message) => {
     }
 });
 
-bot.login('not process.env.token'); // Makes the bot login to the token in the env file.
+bot.login('MTE5MzYwNTQ5MTYyOTI0MDM5MQ.GlsBYg.rLQUlJzWrDejbxoug1j7KYpSYDpz53dYZZp5Ks'); // Makes the bot login to the token in the env file.
